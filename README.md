@@ -9,7 +9,6 @@ This project is licensed under the MIT license (see LICENSE.txt for details), so
 ## Requirements
 * [Python 2.7 or higher](https://www.python.org/downloads/)
 * [NumPy](http://www.numpy.org/)
-* [PyOpenGL](http://pyopengl.sourceforge.net/)
 * [Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/)
 
 Windows user can find suitable python packages here: http://www.lfd.uci.edu/~gohlke/pythonlibs/
