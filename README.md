@@ -1,5 +1,5 @@
 # raytracer
-A simple recursive 3D raytracer written in python.
+A simple recursive 3D raytracer written in python by Tilman Ginzel.
 
 During my studies at the RheinMain University of Applied Science we had to write a raytracer in python.
 This took place in a fourth semester course called *Generative Computergrafik* lectured by Prof. Dr. U. Schwanecke in 2014.
